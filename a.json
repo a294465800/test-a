@@ -2,5 +2,7 @@
   "name": "JSON",
   "test": "1",
   "local": "bbb",
-  "github": "aaa"
+  "github": "aaa",
+  "new": "ccc"
+  
 }
