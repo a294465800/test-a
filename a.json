@@ -1,5 +1,6 @@
 {
   "name": "JSON",
   "test": "1",
-  "local": "bbb"
+  "local": "bbb",
+  "github": "aaa"
 }
